@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
 @SpringBootApplication
-@EnableConfigServer // Enable Spring Cloud Config Server test
+@EnableConfigServer // Enable Spring Cloud Config Server test 2
 public class ConfigServerApplication {
 
 	public static void main(String[] args) {
